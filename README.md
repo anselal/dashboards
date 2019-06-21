@@ -4,7 +4,7 @@ A curated list with admin dashboards/visualization resources. Open-Source Projec
 
 ### How to use
  
- - Make a pull request, with your dashbord added in the ** content / posts ** 
+ - Make a pull request, with your dashbord added in the [posts](https://github.com/admin-dashboards/dashboards/tree/master/content/posts) directory
  - The app will be published after review
 
 ---
