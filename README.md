@@ -10,7 +10,7 @@ A curated list with admin dashboards/visualization resources. Open-Source Projec
 ### Links
  - [Admin-Dashboard on ProductHunt](https://www.producthunt.com/posts/admin-dashboards)
  - [Admin-Dashboard on Medium](https://medium.com/@appseed.us/admin-dashboards-com-goes-open-source-2a95862b5eab)
- - Free [Admin Dashboards](https://appseed.us/admin-dashboards) provided by **AppSeed** 
+ - Free [Admin Dashboards](https://appseed.us/admin-dashboards) provided by AppSeed 
  - [Blog](https://blog.appseed.us/admin-dashboards) and [documentation](https://docs.appseed.us/admin-dashboards/) related to **admin dashboards**
  
 ---
