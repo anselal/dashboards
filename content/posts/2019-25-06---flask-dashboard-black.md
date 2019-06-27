@@ -8,6 +8,7 @@ category: "Flask Dashboard"
 tags:
   - "dashboard"  
   - "flask"  
+  - "open source"  
 description: "Admin Dashboard with Black Dashboard design coded in Flask. Flask Dashboard Black use the latest state-of-the-art design provided by Creative-Tim."
 ---
 

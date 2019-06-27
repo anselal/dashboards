@@ -8,6 +8,7 @@ category: "React Dashboard"
 tags:
   - "dashboard"  
   - "react"  
+  - "open source"  
 description: "A free React Admin Dashboard app, crafted by DesignRevision with a modern design system and lots of custom templates and components. Released under MIT license."
 ---
 

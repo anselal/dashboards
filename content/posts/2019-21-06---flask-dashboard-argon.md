@@ -8,6 +8,7 @@ category: "Flask Dashboard"
 tags:
   - "dashboard"  
   - "flask"  
+  - "open source"  
 description: "Admin Dashboard with Argon Dashboard design coded in Flask. Flask Dashboard Argon is built on top of a fully responsive, pixel-perfect design, enhanced with database, SQLAlchemy ORM, and authentication. Open-Source project."
 ---
 
