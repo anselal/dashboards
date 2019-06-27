@@ -26,6 +26,11 @@ I'm not saying this is good or bad, but is not obvious if the apps are free or n
 Well, this is not the case with this index. All apps listed here are released under the MIT license, 
 and we will mention if the publisher requests the email address or not to deliver the app.
 
+
+#### Note for newcomers
+Admin-Dashboard.com is an [open-source](https://github.com/admin-dashboards/dashboards) project with content submitted by developers. In case you know a nice admin dashboard crafted by a developer or a small agency, please [fork the project](https://github.com/admin-dashboards/dashboards) and submit it. 
+The goal of this service is to promote #cool admin dashboards crafted by restless geeks.   
+
 ## React Dashboard Light Bootstrap
 
 [React Dashboard Light Bootstrap](https://www.creative-tim.com/product/light-bootstrap-dashboard-react) is an admin dashboard template, crafted by **Creative-Tim**. The app is built on top of [React Bootstrap](https://5c507d49471426000887a6a7--react-bootstrap.netlify.com/) and use the existing design of [Light Bootstrap Dashboard]. Product info:
@@ -64,12 +69,6 @@ At first look, the product looks clean and well designed. This app has an impres
 
 
 ## Other Resources
- - [React Dashboards](https://colorlib.com/wp/react-dashboard-templates/) - index provided by **ColorLib**.
- - [Dashboards made with React](https://madewithreactjs.com/dashboards) - index provided by **MadeWithReactjs.com**
+ - [React Dashboards](https://colorlib.com/wp/react-dashboard-templates/) - index provided by **ColorLib**. More than half are commercial apps.
+ - [Dashboards made with React](https://madewithreactjs.com/dashboards) - index provided by **MadeWithReactjs.com**. More than 75% commercial apps.
 
-
-
-## Resources
-
- - [React Dashboard Shards](https://designrevision.com/downloads/shards-dashboard-lite-react/) - product info
- - [React Dashboard Shards](https://designrevision.com/demo/shards-dashboard-lite-react/) - live demo
