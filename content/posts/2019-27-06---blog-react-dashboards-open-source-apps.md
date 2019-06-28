@@ -15,12 +15,11 @@ Hello audience,
 
 This article is a curated list with dashboards coded in [React](https://reactjs.org/) released under a permissive license by the publishers. 
 All apps listed here are suitable for hobby and commercial projects.
-<br />
 
-## The Motivation of writing this article
+### The Motivation of writing this article
 
 The existing `Top 45+ React Dashboards ..` articles, most of them, are written by the publishers, 
-and sometimes they have this habit of sniffing allot of commercial apps without mention this aspect in the title. 
+and sometimes they have this habit of sniffing a lot of commercial apps without mention this aspect in the title. 
 I'm not saying this is good or bad, but is not obvious if the apps are free or not, just by reading the title. 
 
 Well, this is not the case with this index. All apps listed here are released under the MIT license, 
@@ -28,12 +27,14 @@ and we will mention if the publisher requests the email address or not to delive
 
 
 #### Note for newcomers
-Admin-Dashboard.com is an [open-source](https://github.com/admin-dashboards/dashboards) project with content submitted by developers. In case you know a nice admin dashboard crafted by a developer or a small agency, please [fork the project](https://github.com/admin-dashboards/dashboards) and submit it. 
-The goal of this service is to promote #cool admin dashboards crafted by restless geeks.   
+Admin-Dashboard.com is an **open-source** project with content submitted by developers. 
+In case you know a nice admin dashboard crafted by a freelancer, please [read here](/how-to-use) how to submit a project. 
+The goal of this service is to promote admin dashboards crafted by restless geeks.   
 
 ## React Dashboard Light Bootstrap
 
-[React Dashboard Light Bootstrap](https://www.creative-tim.com/product/light-bootstrap-dashboard-react) is an admin dashboard template, crafted by **Creative-Tim**. The app is built on top of [React Bootstrap](https://5c507d49471426000887a6a7--react-bootstrap.netlify.com/) and use the existing design of [Light Bootstrap Dashboard]. Product info:
+[React Dashboard Light Bootstrap](https://www.creative-tim.com/product/light-bootstrap-dashboard-react) is an admin dashboard template, crafted by **Creative-Tim**. The app is built on top of [React Bootstrap](https://5c507d49471426000887a6a7--react-bootstrap.netlify.com/) and use the existing design of [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard). Product info:
+
  - [Live React Dashboard Light](https://demos.creative-tim.com/light-bootstrap-dashboard-react/) demo
  - [React Dashboard Light Github](https://github.com/creativetimofficial/light-bootstrap-dashboard-react) sources
  - [React Dashboard Light Bootstrap](https://www.creative-tim.com/product/light-bootstrap-dashboard-react) - the product info
@@ -43,18 +44,23 @@ At first look, the product looks clean and well designed. This app has an impres
 
 ![React Dashboard Light Bootstrap - Animated presentation in gif format.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-light-intro.gif)
 
+<br />
+
 ## React Dashboard Shards Lite
 
-[Shards Dashboard Lite React](https://designrevision.com/downloads/shards-dashboard-lite-react/) is a free React admin dashboard template pack featuring a modern design system and lots of custom templates and components.
+[Shards Dashboard Lite React](https://designrevision.com/downloads/shards-dashboard-lite-react/) is a free [React](https://reactjs.org/) admin dashboard 
+template pack featuring a modern design system and lots of custom templates and components, provided by DesignRevision. 
 
+ - [Shards Dashboard Lite React](https://designrevision.com/demo/shards-dashboard-lite-react/blog-overview) demo
  - License: MIT
- - No Free access, users must provide the email
- - Deliverable: Zip
+ - No Free access, users must provide the email, deliverable **Zip archive**
  - Beautiful design, light UI, looks impressive on mobile
  - Available Pages: Dashnoard, blog posts, tables and user profile. 
  - No Login or Registration pages. 
 
 ![React Dashboard Shards Lite - Animated presentation in gif format.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-shards-light-intro.gif)
+
+<br />
 
 ## React Dashboard Black
 

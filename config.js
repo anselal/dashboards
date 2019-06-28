@@ -23,9 +23,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'A curated list with admin dashboards/visualization resources. Open-Source Project.',
     contacts: {
-      email: 'hello@admin-dashboards.com',
       twitter: 'Sm0keDev',
-      github: 'admin-dashboards/dashboards'
+      github: 'admin-dashboards/dashboards',
+      rss: 'https://appseed.us/admin-dashboards?ref=admin-dashboards',
     }
   }
 };

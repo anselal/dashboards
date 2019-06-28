@@ -11,12 +11,13 @@ const Author = () => {
     <div className={styles['author']}>
       <p className={styles['author__bio']}>
         {author.bio}
+        <br /> 
+        More{' '} 
         <a
-          className={styles['author__bio-twitter']}
-          href={getContactHref('github', author.contacts.github)}
-        >
-          Github
+          href={getContactHref('rss', author.contacts.rss)} >
+          admin dashboards
         </a>
+
       </p>
     </div>
   );
