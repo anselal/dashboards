@@ -14,13 +14,15 @@ Admin Dashboards is an [open-source project](https://github.com/admin-dashboards
 If you are a freelancer or a small startup, and you have in your portfolio an admin dashboard product, trying to promote it and sell it, can be challenging without a serious budget. The first page in Google for the keyword “admin dashboards” is full of well-positioned companies like ColorLib, WrapBootstrap, and other companies at the same level.
 
 ## The plan 
+
 To get Google's attention, we need to pass this simple checklist:
  - A fast, well-structured website
  - Specific content
  - No bullshit or spam 
  - Good referrals  
 
-## The hacks 
+## Implementation
+
  - The domain name **admin-dashboards.com**, match 100% the keyword we are targeting. And it was free. This fact forced me to think 'God is a hacker' 
  
  - **The speed**. I was testing a few static website generators (Hugo, Gridsome, Jekkyl) but the winner was [GatsbyJS](https://www.gatsbyjs.org/). The result: this app scores more than 90 on Lighthouse and is a clone of this [gatsby starter](https://www.gatsbyjs.org/starters/GatsbyCentral/gatsby-v2-starter-lumen/). There is no login, registration, the entire app is plain HTML, that follows best SEO, and usability practices. You may read [here](https://www.gatsbyjs.org/docs/conceptual-guide/) about Gatsby.  
@@ -71,6 +73,7 @@ To get Google's attention, we need to pass this simple checklist:
 <br />
 
 ## Links
+
  - Read the full story on Medium [Admin-Dashboards.com — goes open source](https://medium.com/@appseed.us/admin-dashboards-com-goes-open-source-2a95862b5eab)
  - Upvote [Admin-Dashboars.com](https://www.producthunt.com/posts/admin-dashboards) on Product hunt, and help us grow
  - Upvote on [Admin-Dashboars on Reddit](https://www.reddit.com/r/reactjs/comments/c64vw2/react_dashboards_opensource_released_under_the/)
