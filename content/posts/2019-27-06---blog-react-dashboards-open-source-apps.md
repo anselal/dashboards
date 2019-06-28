@@ -27,9 +27,10 @@ and we will mention if the publisher requests the email address or not to delive
 
 
 #### Note for newcomers
-Admin-Dashboard.com is an **open-source** project with content submitted by developers. 
-In case you know a nice admin dashboard crafted by a freelancer, please [read here](/how-to-use) how to submit a project. 
-The goal of this service is to promote admin dashboards crafted by restless geeks.   
+The goal of this **open-source** service is to promote **admin dashboards** crafted by restless geeks and freelancers, 
+to become visible in front of big sharks and jailed markets (e.g. ColorLib, ThemeForest).  
+You may [read here](/how-to-use) **how to submit** a project or [here](/how-it-works) **how it works**.  
+   
 
 ## React Dashboard Light Bootstrap
 

@@ -16,6 +16,10 @@ module.exports = {
     {
       label: 'How to use',
       path: '/how-to-use'
+    },
+    {
+      label: 'How it works',
+      path: '/how-it-works'
     }
   ],
   author: {
