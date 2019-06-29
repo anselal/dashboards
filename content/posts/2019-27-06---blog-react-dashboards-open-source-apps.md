@@ -16,7 +16,7 @@ Hello audience,
 This article is a curated list with dashboards coded in [React](https://reactjs.org/) released under a permissive license by the publishers. 
 All apps listed here are suitable for hobby and commercial projects.
 
-### The Motivation of writing this article
+### The Motivation for writing this article
 
 The existing `Top 45+ React Dashboards ..` articles, most of them, are written by the publishers, 
 and sometimes they have this habit of sniffing a lot of commercial apps without mention this aspect in the title. 
@@ -30,7 +30,7 @@ and we will mention if the publisher requests the email address or not to delive
 The goal of this **open-source** service is to promote **admin dashboards** crafted by restless geeks and freelancers, 
 to become visible in front of big sharks and jailed markets (e.g. ColorLib, ThemeForest).  
 
-**You may [here](/how-it-works) how it works**.  
+**You may read [here](/how-it-works) how it works**.  
    
 
 ## React Dashboard Light Bootstrap

@@ -6,8 +6,8 @@ draft: false
 slug: "/flask-dashboard-light-bootstrap-creative-tim"
 category: "Flask Dashboard"
 tags:
-  - "dashboard"  
   - "flask"  
+  - "dashboard"  
   - "open source"  
 description: "Admin Dashboard with Light Bootstrap design coded in Flask. Flask Dashboard Light is crafted on top of Bootstrap CSS by Creative-Tim and released as an open-source web application."
 ---
