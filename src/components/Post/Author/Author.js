@@ -12,11 +12,11 @@ const Author = () => {
       <p className={styles['author__bio']}>
         {author.bio}
         <br /> 
-        More{' '} 
+        {'Full-Stack '} 
         <a
           href={getContactHref('rss', author.contacts.rss)} >
-          admin dashboards
-        </a>
+          Admin Dashboards
+        </a> - provided by <a href="https://appseed.us/?ref=admin-dashboards">AppSeed</a>
 
       </p>
     </div>
