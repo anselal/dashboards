@@ -62,7 +62,7 @@ Shards Dashboard Lite comes packed with templates and dozens of custom component
  - [Vue Dashboard Shards Lite sources](https://github.com/DesignRevision/shards-dashboard-vue) - published on Github
  - [Vue Dashboard Shards Lite demo](https://demos.creative-tim.com/vue-paper-dashboard/#/dashboard)
 
-![Vue Dashboard Paper - Gif animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/vue-dashboard-paper-intro.gif)
+![Vue Dashboard Paper - Gif animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/vue-dashboard-shards-lite-intro.gif)
 
 If you plan to test this admin dashboard, without leaving this page, just type:
 
