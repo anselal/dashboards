@@ -2,6 +2,11 @@
 
 A curated list with admin dashboards/visualization resources. Open-Source Project.
 
+## How to use
+ 
+ - Make a pull request, with your dashbord added in the [posts](https://github.com/admin-dashboards/dashboards/tree/master/content/posts) directory
+ - The app will be published on [admin-dashboard.com](https://admin-dashboards.com/) after review
+
 ## [React Dashboards](https://admin-dashboards.com/category/react-dashboard/)
 
  - [React Dashboard Material Admin](https://admin-dashboards.com/react-dashboard-material-admin-flatlogic)
@@ -16,11 +21,6 @@ A curated list with admin dashboards/visualization resources. Open-Source Projec
  - [Flask Dashboard Light](https://admin-dashboards.com/flask-dashboard-light-bootstrap-creative-tim)
  - [Flask Dashboard Black](https://admin-dashboards.com/flask-dashboard-black-creative-tim)
  - [Flask Dashboard Argon](https://admin-dashboards.com/flask-dashboard-argon)
-
-## How to use
- 
- - Make a pull request, with your dashbord added in the [posts](https://github.com/admin-dashboards/dashboards/tree/master/content/posts) directory
- - The app will be published on [admin-dashboard.com](https://admin-dashboards.com/) after review
 
 ## Links
  - [Admin-Dashboard on ProductHunt](https://www.producthunt.com/posts/admin-dashboards)
