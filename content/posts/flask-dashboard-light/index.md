@@ -7,6 +7,7 @@ generate-card: false
 language: en
 tags:
     - flask-dashboard
+    - creative-tim
 description: "Admin Dashboard with Light Bootstrap design coded in Flask. Flask Dashboard Light is crafted on top of Bootstrap CSS by Creative-Tim and released as an open-source web application."
 ---
 

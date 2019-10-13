@@ -1,13 +1,12 @@
 ---
 title: "Flask Dashboard Argon"
 slug: flask-dashboard-argon
-date: 2016-06-21
+date: 2019-06-21
 language: en
-cover: ./cover-balloons.jpg
-imageTw: ./gatsby-starter-morning-dew-v1-1-tw.png
-imageFb: ./gatsby-starter-morning-dew-v1-1-fb.png
+cover: ./cover.jpg
 tags:
   - flask-dashboard
+  - creative-tim
 description: "Admin Dashboard with Black Dashboard design coded in Flask. Flask Dashboard Black use the latest state-of-the-art design provided by Creative-Tim."
 ---
 

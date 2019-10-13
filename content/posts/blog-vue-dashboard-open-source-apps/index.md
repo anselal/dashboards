@@ -1,12 +1,14 @@
 ---
 title: Vue Dashboard - Open-Source Apps
 slug: blog/vue-dashboard-open-source-and-free
-date: 2016-06-30
+date: 2019-06-30
 cover: ./cover.jpg
 generate-card: false
 language: en
 tags:
     - blog
+    - vue-dashboard
+    - admin-dashboards
 description: "Open-Source Vue Admin Dashboard with transparent Bootstrap4 design coded by FlatLogic company. Released under the MIT license."
 ---
 

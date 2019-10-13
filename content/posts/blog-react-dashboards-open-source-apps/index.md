@@ -1,12 +1,14 @@
 ---
-title: Open-Source React Dashboards
+title: React Dashboards - Open-Source and Free
 slug: blog/react-dashboards-curated-open-source-apps
-date: 2016-06-27
+date: 2019-06-27
 cover: ./cover.jpg
 generate-card: false
 language: en
 tags:
     - blog
+    - react-dashboards
+    - admin-dashboards
 description: "A curated list with open-source React Dashboards. Apps are released under MIT license, suitable for hobby or commercial projects."
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: React Dashboard Material Admin
 slug: react-dashboard-material-admin-flatlogic
-date: 2016-06-29
+date: 2019-06-29
 cover: ./cover.jpg
 generate-card: false
 language: en
 tags:
     - react-dashboards
+    - flatlogic
 description: "Open-Source React Admin Dashboard with Material-UI design coded by FlatLogic company. Released under the MIT license."
 ---
 

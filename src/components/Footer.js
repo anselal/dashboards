@@ -128,7 +128,7 @@ const Footer = () => {
             Links
           </h5>
           <p className="footer-item-text">
-            Full-Stack <a href="https://appseed.us/admin-dashboards/">Dashboards</a>
+            <a href="https://appseed.us/admin-dashboards/">Admin Dashboards</a>
           </p>
         </div>
 

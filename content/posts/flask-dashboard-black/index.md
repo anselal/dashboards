@@ -7,6 +7,7 @@ date: 2016-06-25
 language: en
 tags:
   - flask-dashboard
+  - creative-tim
 description: "Admin Dashboard with Black Dashboard design coded in Flask. Flask Dashboard Black use the latest state-of-the-art design provided by Creative-Tim."
 ---
 

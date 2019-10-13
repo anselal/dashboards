@@ -1,7 +1,7 @@
 ---
 title: Vue Dashboard Vuetify Admin
 slug: vue-dashboard-vuetify-admin-dashboard
-date: 2016-06-29
+date: 2019-06-29
 cover: ./cover.jpg
 generate-card: false
 language: en

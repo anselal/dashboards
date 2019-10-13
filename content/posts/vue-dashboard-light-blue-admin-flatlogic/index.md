@@ -1,12 +1,13 @@
 ---
 title: Vue Dashboard Light Blue Admin
 slug: vue-dashboard-light-blue-admin-flatlogic
-date: 2016-07-03
+date: 2019-07-03
 cover: ./cover.jpg
 generate-card: false
 language: en
 tags:
     - vue-dashboard
+    - flatlogic
 description: "Open-Source Vue Admin Dashboard with transparent Bootstrap4 design coded by FlatLogic company. Released under the MIT license."
 ---
 
