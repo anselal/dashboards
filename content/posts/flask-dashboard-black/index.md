@@ -27,7 +27,8 @@ description: "Admin Dashboard with Black Dashboard design coded in Flask. Flask 
 
 <br />
 
-![Flask Dashboard Black - Gif Animated Intro.](https://raw.githubusercontent.com/app-generator/flask-black-dashboard/master/screenshots/flask-black-dashboard-intro.gif)
+[![Flask Dashboard Black - Gif Animated Intro.](https://raw.githubusercontent.com/app-generator/flask-black-dashboard/master/screenshots/flask-black-dashboard-intro.gif)](https://www.youtube.com/watch?v=7uY1inGzwoQ "Flask Dashboard Black")
+
 
 ## Build from sources
 
@@ -42,10 +43,6 @@ python app.py
 ```
 
 If all goes well, you shoud see **Flask Dashboard Light** app running, by visiting **localhost:5000** in your preferred browser. 
-
-## Dashboard Video Prezentation
-
-[![Flask Dashboard Black - Video Prezentation.](http://img.youtube.com/vi/7uY1inGzwoQ/0.jpg)](https://www.youtube.com/watch?v=7uY1inGzwoQ "Flask Dashboard Black")
 
 ## Dashboard Resources
 

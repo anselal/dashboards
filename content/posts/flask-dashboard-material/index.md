@@ -27,7 +27,7 @@ description: "Admin Dashboard with Material Dashboard design coded in Flask. Fla
 
 <br />
 
-![Flask Dashboard Material - Gif Animated Intro.](https://raw.githubusercontent.com/app-generator/flask-material-dashboard/master/screenshots/flask-material-dashboard-intro.gif)
+[![Flask Dashboard Material - Gif Animated Intro.](https://raw.githubusercontent.com/app-generator/flask-material-dashboard/master/screenshots/flask-material-dashboard-intro.gif)](https://www.youtube.com/watch?v=KHCMeH-TYdI "Flask Dashboard Material")
 
 ## Build from sources
 
@@ -42,10 +42,6 @@ $ python app.py
 ```
 
 If all goes well, you shoud see **Flask Dashboard Material** app running, by visiting **localhost:5000** in your preferred browser. 
-
-## Dashboard Video Prezentation
-
-[![Flask Dashboard Material - Video Prezentation.](http://img.youtube.com/vi/KHCMeH-TYdI/0.jpg)](https://www.youtube.com/watch?v=KHCMeH-TYdI "Flask Dashboard Material")
 
 ## Dashboard Resources
 

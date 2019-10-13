@@ -28,7 +28,7 @@ description: "Admin Dashboard with Light Bootstrap design coded in Flask. Flask 
 
 <br />
 
-![Flask Dashboard Light](https://raw.githubusercontent.com/app-generator/flask-dashboard-light-bootstrap/master/screenshots/light-dashboard-flask-dashboard-intro.gif)
+[![Flask Dashboard Light - Video Prezentation.](https://raw.githubusercontent.com/app-generator/flask-dashboard-light-bootstrap/master/screenshots/light-dashboard-flask-dashboard-intro.gif)](https://www.youtube.com/watch?v=RsZLBvKUwrA "Flask Dashboard Light")
 
 ## Build from sources
 
@@ -43,10 +43,6 @@ python app.py
 ```
 
 If all goes well, you shoud see **Flask Dashboard Light** app running, by visiting **localhost:5000** in your preferred browser. 
-
-## Dashboard Video Prezentation
-
-[![Flask Dashboard Light - Video Prezentation.](http://img.youtube.com/vi/RsZLBvKUwrA/0.jpg)](https://www.youtube.com/watch?v=RsZLBvKUwrA "Flask Dashboard Light")
 
 ## Dashboard Resources
 

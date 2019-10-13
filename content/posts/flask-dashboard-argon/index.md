@@ -28,7 +28,7 @@ Other features: FTP deploy script, static export via Frozen-Flask.
 
 <br />
 
-![Flask Dashboard Argon](https://raw.githubusercontent.com/app-generator/flask-argon-dashboard/master/screenshots/flask-argon-dashboard-intro.gif)
+[![Flask Dashboard Argon - Gif animated intro.](https://raw.githubusercontent.com/app-generator/flask-argon-dashboard/master/screenshots/flask-argon-dashboard-intro.gif)](https://www.youtube.com/watch?v=G1AqZo1CO2M "Flask Dashboard Argon")
 
 ## Build from sources
 
@@ -43,11 +43,6 @@ python app.py
 ```
 
 If all goes well, you shoud see **Flask Dashboard Argon** app running, by visiting **localhost:5000** in your preferred browser. 
-
-## Dashboard Video Prezentation
-
-[![Flask Dashboard Argon - Video Prezentation.](http://img.youtube.com/vi/G1AqZo1CO2M/0.jpg)](https://www.youtube.com/watch?v=G1AqZo1CO2M "Flask Dashboard Argon")
-
 
 ## Dashboard Resources
 

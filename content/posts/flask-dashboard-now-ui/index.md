@@ -27,7 +27,7 @@ description: "Admin Dashboard with Now UI Dashboard design coded in Flask. Flask
 
 <br />
 
-![Flask Dashboard Now UI - Gif Animated Intro.](https://raw.githubusercontent.com/app-generator/flask-now-ui-dashboard/master/screenshots/flask-now-ui-dashboard-intro.gif)
+[![Flask Dashboard Now UI - Gif Animated Intro.](https://raw.githubusercontent.com/app-generator/flask-now-ui-dashboard/master/screenshots/flask-now-ui-dashboard-intro.gif)](https://www.youtube.com/watch?v=uruxC8JjEs0 "Flask Dashboard Now UI")
 
 ## Build from sources
 
@@ -42,10 +42,6 @@ python app.py
 ```
 
 If all goes well, you shoud see **Flask Dashboard Now UI** app running, by visiting **localhost:5000** in your preferred browser. 
-
-## Dashboard Video Prezentation
-
-[![Flask Dashboard Now UI - Video Prezentation.](http://img.youtube.com/vi/uruxC8JjEs0/0.jpg)](https://www.youtube.com/watch?v=uruxC8JjEs0 "Flask Dashboard Now UI")
 
 ## Dashboard Resources
 
