@@ -31,3 +31,11 @@ admin [dashboard](https://en.wikipedia.org/wiki/Dashboard_(business)), crafted b
 
  - [React Dashboard Shards](https://designrevision.com/downloads/shards-dashboard-lite-react/) - product info
  - [React Dashboard Shards](https://designrevision.com/demo/shards-dashboard-lite-react/) - live demo
+
+
+### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
+
+- [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
+- [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
+- [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)
+- [Admin Dashboards](https://blog.appseed.us/admin-dashboards-open-source-built-with-automation-tools/) - Open-Source and built with automation tools

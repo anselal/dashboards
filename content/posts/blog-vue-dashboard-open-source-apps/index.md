@@ -121,6 +121,10 @@ The app is well organized, and the source code is clean and well documented.
 Admin-Dashboards.com is an open-source project, created to promote the work of freelancers and small agencies for free.
 To get listed on this page or in other sections of this website, [fork the project](https://github.com/admin-dashboards/dashboards) on Github and add your content in the proper category. 
 
-## Other Resources
- - [Vue.js Admin Dashboards](https://madewithvuejs.com/blog/the-best-vue-js-admin-dashboards) - index provided by **MadeWithVuejs.com**, where more than 50% is commercial content.
+### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
+
+- [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
+- [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
+- [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)
+- [Admin Dashboards](https://blog.appseed.us/admin-dashboards-open-source-built-with-automation-tools/) - Open-Source and built with automation tools
 

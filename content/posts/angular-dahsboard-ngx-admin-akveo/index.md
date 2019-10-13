@@ -12,7 +12,7 @@ description: "A popular admin dashboard based on Angular 8+ and Bootstrap 4+. Fr
 
 **[Ngx-Admin Dashboard](https://akveo.github.io/ngx-admin/)** is a popular admin dashboard based on Angular 8+ and Bootstrap 4+, **free and open-source** for personal and commercial purposes. The template comes with lots of popular UI components with a unified color scheme, plus it is based on a modern Angular framework and has a flexible component based structure.
 
-![Ngx-Admin Dashboard - App Screen Shot.](https://camo.githubusercontent.com/ff5f824e7cb1fe05527a1fe173bd89e9d7a07b7d/68747470733a2f2f692e696d6775722e636f6d2f4b6e3378444b512e706e67)
+![Ngx-Admin Dashboard - App Screen Shot.](./angular-dashboards-ngx-admin-akveo-screen.png)
 
 ## How to use it
 
@@ -35,3 +35,9 @@ If all goes well, you shoud see **Ngx-Admin** app running in your preferred brow
 - [Ngx-Admin - Source Code](https://github.com/akveo/ngx-admin)
 - [Documentation](https://akveo.github.io/ngx-admin/docs/getting-started/what-is-ngxadmin)
 
+### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
+
+- [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
+- [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
+- [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)
+- [Admin Dashboards](https://blog.appseed.us/admin-dashboards-open-source-built-with-automation-tools/) - Open-Source and built with automation tools

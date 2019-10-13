@@ -52,3 +52,11 @@ The app is well organized, and the source code is clean and well documented.
  - [Vue Dashboard Light Blue Admin](https://flatlogic.com/admin-dashboards/light-blue-vue-lite) - product official page
  - [Vue Dashboard Light Blue Admin sources](https://github.com/flatlogic/light-blue-vue-admin) - published on Github
  - [Vue Dashboard Light Blue Admin demo](https://flatlogic.github.io/light-blue-vue-admin/#/app/dashboard) 
+
+
+### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
+
+- [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
+- [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
+- [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)
+- [Admin Dashboards](https://blog.appseed.us/admin-dashboards-open-source-built-with-automation-tools/) - Open-Source and built with automation tools

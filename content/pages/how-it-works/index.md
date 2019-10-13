@@ -6,7 +6,7 @@ disqus: false
 description: "The page explain how this service help freelancers to promote their work."
 ---
 
-Admin Dashboards is an [open-source project](https://github.com/admin-dashboards), created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers.  
+[Admin Dashboards](https://appseed.us/admin-dashboards) is an [open-source project](https://github.com/admin-dashboards/), created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers.  
 
 ## The motivation
 
@@ -30,6 +30,7 @@ To get Google's attention, we need to pass this simple checklist:
     - Categories are keywords related to the `admin dashboard` keyword. The winners (selected by the search volumes) are:
     - `react dashboard` - 2.9k mo searches
     - `vue dashboard` - 1k mo searches
+    - `angular dashboards` - 2.9k mo searches
     - `flask dashboard` - 0.7k mo searches
     - Products. Each dashboard will be listed in two places: as an item in the mother category, and as a single page, in the root of the website. See the website files structure bellow, for more information
 
@@ -38,7 +39,7 @@ To get Google's attention, we need to pass this simple checklist:
  - **The referrals** The Github repository was created to follow the domain signature. `github.com/admin-dashboards`. Also, the products, with a little bit of traction from the audience, will have a correspondent project on Github, on address `github.com/admin-dashboards/killer-dashboard`. Google loves this kind of s**t, and will rank the project better than others, because the information (keyword, content) is consistent, across multiple domains.    
 
 ```
-# Admin-Dashboards.com structure
+## Site structure
 
 <root>
    |
@@ -69,7 +70,6 @@ To get Google's attention, we need to pass this simple checklist:
 
 ## Links
 
- - Read the full story on Medium [Admin-Dashboards.com — goes open source](https://medium.com/@appseed.us/admin-dashboards-com-goes-open-source-2a95862b5eab)
- - Upvote [Admin-Dashboars.com](https://www.producthunt.com/posts/admin-dashboards) on Product hunt, and help us grow
- - Upvote on [Admin-Dashboars on Reddit](https://www.reddit.com/r/reactjs/comments/c64vw2/react_dashboards_opensource_released_under_the/)
-
+ - Read the full story on Medium [Admin-Dashboards — goes open source](https://medium.com/@appseed.us/admin-dashboards-com-goes-open-source-2a95862b5eab)
+ - Upvote [Admin-Dashboards](https://www.producthunt.com/posts/admin-dashboards) on Product hunt, and help us grow
+ - Upvote on [Admin-Dashboards on Reddit](https://www.reddit.com/r/reactjs/comments/c64vw2/react_dashboards_opensource_released_under_the/)
