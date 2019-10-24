@@ -2,7 +2,7 @@
 title: Flask Dashboard Black
 slug: flask-dashboard-black-creative-tim
 cover: ./flask-dashboard-black-cover.jpg
-date: 2019-10-03
+date: 2019-10-23
 language: en
 tags:
  - flask-dashboard
@@ -50,6 +50,18 @@ If all goes well, you shoud see **Flask Dashboard Light** app running, by visiti
 - [Flask Dashboard Black](https://docs.appseed.us/admin-dashboards/flask-dashboard-black/) - documentation
 - [Admin Dashboards](https://appseed.us/admin-dashboards/) - index provided by AppSeed
 - [Black Dashboard](https://www.creative-tim.com/product/black-dashboard/) - the original design UI Kit, provided by Creative-Tim   
+
+<br />
+
+## Want more? Go PRO!
+
+<br />
+
+| [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) | [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) |
+| --- | --- | --- |
+| [![Flask Dashboard Material PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)  | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+
+<br />
 
 ### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
 

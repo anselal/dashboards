@@ -2,7 +2,7 @@
 title: Flask Dashboard Now UI
 slug: flask-dashboard-now-ui-creative-tim
 cover: ./flask-dashboard-now-ui-cover.jpg
-date: 2019-10-05
+date: 2019-10-23
 language: en
 tags:
   - flask-dashboard
@@ -47,6 +47,18 @@ If all goes well, you shoud see **Flask Dashboard Now UI** app running, by visit
 
 - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - product info
 - [Admin Dashboards](https://appseed.us/admin-dashboards/) - index provided by AppSeed
+
+<br />
+
+## Want more? Go PRO!
+
+<br />
+
+| [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) | [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) |
+| --- | --- | --- |
+| [![Flask Dashboard Material PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)  | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+
+<br />
 
 ### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
 

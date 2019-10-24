@@ -1,7 +1,7 @@
 ---
 title: "Flask Dashboard Argon"
 slug: flask-dashboard-argon
-date: 2019-10-02
+date: 2019-10-23
 language: en
 cover: ./flask-dashboard-argon-cover.jpg
 tags:
@@ -50,7 +50,19 @@ If all goes well, you shoud see **Flask Dashboard Argon** app running, by visiti
  - [Flask Dashboard Argon](https://docs.appseed.us/admin-dashboards/flask-dashboard-argon/) - documentation
  - [Flask Dashboard Argon](https://blog.appseed.us/flask-dashboard-argon-zero-to-full-stack/) From zero to full-stack - blog articles
  - [Admin Dashboards](https://appseed.us/admin-dashboards) - index provided by AppSeed
- - [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) - Design information, provided by the Creative-Tim   
+ - [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) - Design information, provided by the Creative-Tim  
+
+<br />
+
+## Want more? Go PRO!
+
+<br />
+
+| [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) | [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) |
+| --- | --- | --- |
+| [![Flask Dashboard Material PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)  | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+
+<br />
 
 ### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
 
