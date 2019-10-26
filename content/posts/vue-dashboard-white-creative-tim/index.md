@@ -1,7 +1,7 @@
 ---
 title: Vue Dashboard White
 slug: vue-dashboard-white-creative-tim
-date: 2019-10-24
+date: 2019-10-26
 cover: ./cover.jpg
 language: en
 tags:
@@ -49,14 +49,14 @@ The app is well organized, and the source code is clean and well documented.
 
 ## [Dashboard White](https://www.creative-tim.com/product/vue-white-dashboard?ref=appseed) Resources
 
-- [Vue Dashboard Light Blue Admin](https://flatlogic.com/admin-dashboards/light-blue-vue-lite) - product official page
-- [Vue Dashboard Light Blue Admin sources](https://github.com/flatlogic/light-blue-vue-admin) - published on Github
-- [Vue Dashboard Light Blue Admin demo](https://flatlogic.github.io/light-blue-vue-admin/#/app/dashboard) 
+- [Vue Dashboard White](https://www.creative-tim.com/product/vue-white-dashboard?ref=appseed) - product page
+- [Vue Dashboard White](https://demos.creative-tim.com/vue-white-dashboard/#/dashboard) - Live DEMO 
+- [Vue Dashboard White Sources](https://github.com/creativetimofficial/vue-white-dashboard)
 
 ### Related Articles
 
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - provided by **AppSeed**
 - [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
 - [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
-- [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)
+- [React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j) - Open-Source and Free
 - [Admin Dashboards](https://blog.appseed.us/admin-dashboards-open-source-built-with-automation-tools/) - Open-Source and built with automation tools
