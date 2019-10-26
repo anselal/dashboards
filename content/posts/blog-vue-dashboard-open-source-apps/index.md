@@ -1,7 +1,7 @@
 ---
-title: Vue Dashboard - Open-Source Apps
+title: Vue Dashboard - Open-Source and Free
 slug: blog/vue-dashboard-open-source-and-free
-date: 2019-10-24
+date: 2019-10-26
 cover: ./cover.jpg
 generate-card: false
 language: en
@@ -74,6 +74,25 @@ Steps to build this beautiful Vue **admin dashboard**, directly from sources:
 
 In order to be notified when new releases are available, you need to create an account on Creative-Tim.com, 
 or activate the `watch` feature on Github official repository.
+
+## [Star Vue Admin](https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template)
+
+[Star Vue Admin Template](https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template) is a free admin template based on Bootstrap 4 and Vue.js. The template is built using the framework Bootstrap-Vue. Bootstrap-Vue is a framework that implements the Bootstrap 4 components and grid system available for Vue.js. [Star Vue Admin Template](https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template) is a completely responsive and mobile-first admin template that provides a great foundation for your Bootstrap + Vue.js project. This remarkably flexible and highly customizable template helps you create an amazing UI for your admin panel. 
+
+- [Star Vue Admin](https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template) - Github repository 
+- [Star Vue Admin](https://www.bootstrapdash.com/demo/star-admin-vue/) - dashboard Live DEMO
+
+![Vue Dashboard White - Free Vuejs Admin Dashboard.](https://raw.githubusercontent.com/admin-dashboards/static/master/vue-dashboard-star-admin-intro.gif)
+
+Steps to build this  Vue **Admin dashboard**, directly from sources:
+
+```bash
+$ git clone https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template.git
+$ cd StarAdmin-Free-Vue-Admin-Template/source/
+$ yarn # install dependencies
+$ yarn dev # start the Vue dashboard app for development
+$ yarn build # build for production
+```
 
 ## [Vue Dashboard Shards Lite](https://designrevision.com/downloads/shards-dashboard-lite-vue/)
 
