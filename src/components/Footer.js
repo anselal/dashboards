@@ -119,7 +119,7 @@ const Footer = () => {
             <a href="https://twitter.com/Sm0keDev">Sm0ke</a> © {new Date().getFullYear()}
           </h5>
           <p className="footer-item-text">
-            <a href="https://github.com/admin-dashboards/">Open-source</a>
+            <a href="https://github.com/admin-dashboards/">Github Repo</a>
           </p>
         </div>
 
@@ -128,7 +128,7 @@ const Footer = () => {
             Links
           </h5>
           <p className="footer-item-text">
-            <a href="https://appseed.us/admin-dashboards/">Admin Dashboards</a>
+            <a href="https://appseed.us/admin-dashboards/open-source">Open-Source Dashboards</a>
           </p>
         </div>
 

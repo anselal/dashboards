@@ -40,8 +40,9 @@ description: "A beautiful Bootstrap 4 Admin Dashboard with a huge number of comp
 - [Now UI Dashboard](https://demos.creative-tim.com/now-ui-dashboard/examples/dashboard.html) - live DEMO
 - [Now UI Dashboard](https://github.com/creativetimofficial/now-ui-dashboard) - source code, published on Github
 
-### [Now UI Dashboard](https://www.creative-tim.com/product/now-ui-dashboard) Articles
+### Related Articles
 
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - provided by **AppSeed**
 - [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
 - [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
 - [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)

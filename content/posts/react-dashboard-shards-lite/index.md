@@ -1,12 +1,13 @@
 ---
 title: React Dashboard Shards Lite
 slug: react-dashboard-shards-lite
-date: 2016-06-26
+date: 2019-06-26
 cover: ./cover.jpg
 generate-card: false
 language: en
 tags:
     - react-dashboards
+    - open-source
 description: "A free React Admin Dashboard app, crafted by DesignRevision with a modern design system and lots of custom templates and components. Released under MIT license."
 ---
 
@@ -33,8 +34,9 @@ admin [dashboard](https://en.wikipedia.org/wiki/Dashboard_(business)), crafted b
  - [React Dashboard Shards](https://designrevision.com/demo/shards-dashboard-lite-react/) - live demo
 
 
-### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
+### Related Articles
 
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - provided by **AppSeed**
 - [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
 - [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
 - [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)

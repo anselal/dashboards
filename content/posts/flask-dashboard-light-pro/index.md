@@ -60,8 +60,9 @@ For more information please access the product page: [Flask Dashboard Light](htt
 
 <br />
 
-### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
+### Related Articles
 
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - provided by **AppSeed**
 - [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
 - [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
 - [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)

@@ -40,8 +40,9 @@ description: "Material Dashboard is a free Material Bootstrap 4 Admin with a fre
 - [Material Dashboard](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html) - live DEMO
 - [Material Dashboard](https://github.com/creativetimofficial/material-dashboard) - source code, published on Github
 
-### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
+### Related Articles
 
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - provided by **AppSeed**
 - [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
 - [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
 - [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)

@@ -40,12 +40,13 @@ The app is well organized, and the source code is clean and well documented.
 
 ## Resources
 
- - [React Dashboard Material Admin product](https://flatlogic.com/admin-dashboards/react-material-admin) - product info
- - [React Dashboard Material Admin sources](https://github.com/flatlogic/react-material-admin) - published on Github
- - [React Dashboard Material Admin demo](https://flatlogic.com/admin-dashboards/react-material-admin/demo) 
+- [React Dashboard Material Admin product](https://flatlogic.com/admin-dashboards/react-material-admin) - product info
+- [React Dashboard Material Admin sources](https://github.com/flatlogic/react-material-admin) - published on Github
+- [React Dashboard Material Admin demo](https://flatlogic.com/admin-dashboards/react-material-admin/demo) 
 
-### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
+### Related Articles
 
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - provided by **AppSeed**
 - [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
 - [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
 - [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)
