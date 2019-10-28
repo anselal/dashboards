@@ -1,7 +1,7 @@
 ---
 title: Vue Dashboard - Open-Source and Free
 slug: blog/vue-dashboard-open-source-and-free
-date: 2019-10-26
+date: 2019-10-28
 cover: ./cover.jpg
 generate-card: false
 language: en
@@ -155,6 +155,30 @@ The app is well organized, and the source code is clean and well documented.
 ![Vue Dashboard Paper - Gif animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/vue-dashboard-paper-intro.gif)
 
 <br />
+
+## [Vue Dashboard ArchitectUI](https://github.com/admin-dashboards/vue-dashboard-architectui-free)
+
+As a base framework, **ArchitectUI Vue** is powered by @vue/cli version 3.4.1 and Bootstrap 4 Vue implementation.
+It contains 15 handpicked Vue widgets and components that are perfectly integrated with each other in order to create a common design language.
+In order to use this Vue theme you’ll need at least basic coding skills. Don’t worry, the theme has pretty straight forward coding and uses Vue Router for the navigation links.
+
+### Vue Dashboard Links
+
+- [Vue Dashboard ArchitectUI](https://github.com/admin-dashboards/vue-dashboard-architectui-free) - Github repository 
+- [Vue Dashboard ArchitectUI](https://vue-dashboard-architectui-free.admin-dashboards.com/) - dashboard Live DEMO
+
+![Vue Dashboard ArchitectUI - Open-Source Admin Panel](https://raw.githubusercontent.com/admin-dashboards/static/master/vue-dashboard-architectui-free-intro.gif)
+
+### Build from sources
+
+```bash
+$ # clone the sources
+$ git clone https://github.com/admin-dashboards/vue-dashboard-architectui-free.git
+$ cd vue-dashboard-architectui-free
+$ yarn # install modules
+$ yarn serve # start the app in development mode
+$ yarn build # production build
+```
 
 ### Add your work in this page
 

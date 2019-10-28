@@ -6,11 +6,12 @@ cover: ./react-dashboard-architectui-free-cover.jpg
 language: en
 tags:
   - react-dashboards
+  - architectui
   - open-source
 description: "ArchitectUI React Dashboard template is a free, open-source admin panel coded in React"
 ---
 
-[ArchitectUI React Dashboard](https://dashboardpack.com/theme-details/architectui-react-dashboard-free/?ref=appseed) template is a free, open-source **admin panel** coded in [React](https://reactjs.org/). It comes packed with a set of beautiful elements and components that can offer you a head start in developing your web application. It has a fully responsive layout, multiple color schemes for both Bootstrap elements and layout components. ArchitectUI React is powered by Bootstrap 4, Webpack and it uses create-react-app from Facebook Dev. 
+[ArchitectUI React Dashboard](https://dashboardpack.com/theme-details/architectui-react-dashboard-free/?ref=appseed) template is a free, open-source **admin panel** coded in [React](https://reactjs.org/). It comes packed with a set of beautiful elements and components that can offer you a head start in developing your web application. It has a fully responsive layout, multiple color schemes for both Bootstrap elements and layout components. ArchitectUI React is powered by Bootstrap 4, Webpack and it uses create-react-app from Facebook Dev.
 
 ![ArchitectUI React Dashboard - Open-Source React Admin Panel.](https://raw.githubusercontent.com/admin-dashboards/static/master/bootstrap-dashboard-architectui-intro.gif)
 
@@ -21,6 +22,7 @@ The theme has built-in the ability to change the style and position of layout co
 ## Build from sources
 
 ```
+
 $ git clone https://github.com/DashboardPack/architectui-react-theme-free.git
 $ cd architectui-react-theme-free
 $ yarn # install modules

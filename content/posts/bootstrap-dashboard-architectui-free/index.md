@@ -6,7 +6,7 @@ language: en
 cover: ./bootstrap-dashboard-architectui-free-cover.jpg
 tags:
  - bootstrap-dashboard
- - admin-dashboards
+ - architectui
  - open-source
 description: "ArchitectUI Dashboard Free is a lightweight admin panel that comes packed with the minimal set of components to get you started."
 ---

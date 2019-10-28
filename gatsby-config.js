@@ -6,6 +6,7 @@ module.exports = {
     title: config.siteTitle,
     author: config.authorName,
     description: config.siteDescription,
+    siteUrl: `https://admin-dashboards.com/`,
     ...config,
   },
   pathPrefix: config.pathPrefix,
@@ -72,6 +73,7 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
