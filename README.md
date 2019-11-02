@@ -1,59 +1,70 @@
 # [Admin Dashboards](https://admin-dashboards.com)
 
-A curated list with free & open-source **admin dashboards** submitted by developers. Project supported by **[AppSeed](https://appseed.us/admin-dashboards)**
+**Admin Dashboards** is an [open-source project](https://github.com/admin-dashboards/), created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers. Hacked by [Sm0ke](https://twitter.com/Sm0keDev).
 
-## How to use
- 
-- Make a pull request, with your dashbord added in the [posts](https://github.com/admin-dashboards/dashboards/tree/master/content/posts) directory
-- The app will be published on [admin-dashboard.com](https://admin-dashboards.com/) after review
+## The motivation
 
-<br />
+If you are a freelancer or a small startup, and you have in your portfolio an admin dashboard product, trying to promote it and sell it, can be challenging without a serious budget. The first page in Google for the keyword “admin dashboards” is full of well-positioned companies like ColorLib, WrapBootstrap, and other companies at the same level.
 
-## [React Dashboards](https://admin-dashboards.com/tags/react-dashboards/)
+## The plan
 
-- [React Dashboard Material Admin](https://admin-dashboards.com/react-dashboard-material-admin-flatlogic)
-- [React Dashboard Shards Lite](https://admin-dashboards.com/react-dashboard-shards-lite)
+To get Google's attention, we need to pass this simple checklist:
 
-<br />
+- A fast, well-structured website
+- Specific content
+- No bullshit or spam
+- Good referrals  
 
-## [Vue Dashboards](https://admin-dashboards.com/tags/vue-dashboard/)
+## Implementation
 
-- [Vue Dashboard Light Blue Admin](https://admin-dashboards.com/vue-dashboard-light-blue-admin-flatlogic)
+- The domain name **admin-dashboards.com**, match 100% the keyword we are targeting. And it was free. This fact forced me to think 'God is a hacker'
 
-<br />
+- **The speed**. I was testing a few static website generators (Hugo, Gridsome, Jekkyl) but the winner was [GatsbyJS](https://www.gatsbyjs.org/). The result: this app scores more than 90 on Lighthouse and is a clone of this [gatsby starter](https://www.gatsbyjs.org/starters/GatsbyCentral/gatsby-v2-starter-lumen/). There is no login, registration, the entire app is plain HTML, that follows best SEO, and usability practices. You may read [here](https://www.gatsbyjs.org/docs/conceptual-guide/) about Gatsby.  
 
-## [Angular Dashboards](https://admin-dashboards.com/tags/angular-dashboards/)
+- **The website structure**:
+  - Categories are keywords related to the `admin dashboard` keyword. The winners (selected by the search volumes) are:
+  - `react dashboard` - 2.9k mo searches
+  - `vue dashboard` - 1k mo searches
+  - `angular dashboards` - 2.9k mo searches
+  - `flask dashboard` - 0.7k mo searches
+  - Products. Each dashboard will be listed in two places: as an item in the mother category, and as a single page, in the root of the website. See the website files structure bellow, for more information
 
-- [Ngx-Admin](https://admin-dashboards.com/angular-dashboards-ngx-admin-akveo) - Free Angular Dashboard
+- **The content**: the information for each product will be curated to provide only relevant information to the audience. 
 
-<br />
+- **The referrals** The Github repository was created to follow the domain signature. `github.com/admin-dashboards`. Also, the products, with a little bit of traction from the audience, will have a correspondent project on Github, on address `github.com/admin-dashboards/killer-dashboard`. Google loves this kind of s**t, and will rank the project better than others, because the information (keyword, content) is consistent, across multiple domains.    
 
-## [Flask Dashboards](https://admin-dashboards.com/tags/flask-dashboard/)
+```bash
+## Site structure
 
-- [Flask Dashboard Light](https://admin-dashboards.com/flask-dashboard-light-bootstrap-creative-tim)
-- [Flask Dashboard Black](https://admin-dashboards.com/flask-dashboard-black-creative-tim)
-- [Flask Dashboard Argon](https://admin-dashboards.com/flask-dashboard-argon)
-- [Flask Dashboard Material](https://admin-dashboards.com/flask-dashboard-material-creative-tim)
-- [Flask Dashboard Now UI](https://admin-dashboards.com/flask-dashboard-now-ui-creative-tim)
+<root>
+   |
+   |---/react-dashboards #category, with paginated items
+   |---/vue-dashboards   #category, with paginated items
+   |---/flask-dashboards #category, with paginated items
+   |
+   |   # bellow are products, listed directly in website root,
+   |   # using a SEO friendly URL
+   |   # If we have an admin dashboard named Killer Dashboard,
+   |   # coded by Alien Agency in React, the URL is
+   |   #
+   |   # react-dashboard-killer-dashboard-by-alien-agency  
+   |   #
+   |
+   /react-dashboard-killer-dashboard-by-alien-agency
+   |
+   /flask-dashboard-black-creative-tim
+   |
+   /react-dashboard-shards-lite
+   |
+   /flask-dashboard-black-creative-tim
+   |
+   | __________________________________
+```
 
 <br />
 
 ## Links
- - [Admin-Dashboard on ProductHunt](https://www.producthunt.com/posts/admin-dashboards)
- - [Admin-Dashboard on Medium](https://medium.com/@appseed.us/admin-dashboards-com-goes-open-source-2a95862b5eab)
- - Free [Admin Dashboards](https://appseed.us/admin-dashboards) provided by AppSeed 
- - [Blog](https://blog.appseed.us/admin-dashboards) and [documentation](https://docs.appseed.us/admin-dashboards/) related to **admin dashboards**
 
-<br />
-
-### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) Articles
-
-- [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
-- [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
-- [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)
-- [Admin Dashboards](https://blog.appseed.us/admin-dashboards-open-source-built-with-automation-tools/) - Open-Source and built with automation tools
-
-<br />
-
----
-[Admin Dashboards](https://admin-dashboards.com) provided by **[AppSeed](https://appseed.us/admin-dashboards)**
+- Read the full story on Medium [Admin-Dashboards — goes open source](https://medium.com/@appseed.us/admin-dashboards-com-goes-open-source-2a95862b5eab)
+- Upvote [Admin-Dashboards](https://www.producthunt.com/posts/admin-dashboards) on Product hunt, and help us grow
+- Upvote on [Admin-Dashboards on Reddit](https://www.reddit.com/r/reactjs/comments/c64vw2/react_dashboards_opensource_released_under_the/)
