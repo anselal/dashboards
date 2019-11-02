@@ -2,9 +2,13 @@
 
 **Admin Dashboards** is an [open-source project](https://github.com/admin-dashboards/), created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers. Hacked by [Sm0ke](https://twitter.com/Sm0keDev).
 
+<br />
+
 ## The motivation
 
 If you are a freelancer or a small startup, and you have in your portfolio an admin dashboard product, trying to promote it and sell it, can be challenging without a serious budget. The first page in Google for the keyword “admin dashboards” is full of well-positioned companies like ColorLib, WrapBootstrap, and other companies at the same level.
+
+<br />
 
 ## The plan
 
@@ -14,6 +18,8 @@ To get Google's attention, we need to pass this simple checklist:
 - Specific content
 - No bullshit or spam
 - Good referrals  
+
+<br />
 
 ## Implementation
 
@@ -68,3 +74,6 @@ To get Google's attention, we need to pass this simple checklist:
 - Read the full story on Medium [Admin-Dashboards — goes open source](https://medium.com/@appseed.us/admin-dashboards-com-goes-open-source-2a95862b5eab)
 - Upvote [Admin-Dashboards](https://www.producthunt.com/posts/admin-dashboards) on Product hunt, and help us grow
 - Upvote on [Admin-Dashboards on Reddit](https://www.reddit.com/r/reactjs/comments/c64vw2/react_dashboards_opensource_released_under_the/)
+
+---
+[Admin Dashboards](https://admin-dashboards.com) - open-source project Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
