@@ -1,7 +1,7 @@
 ---
 title: React Dashboards - Open-Source and Free
 slug: blog/react-dashboards-curated-open-source-apps
-date: 2019-10-26
+date: 2019-11-02
 cover: ./cover.jpg
 generate-card: false
 language: en
@@ -33,6 +33,48 @@ The goal of this **open-source** service is to promote **admin dashboards** craf
 to become visible in front of big sharks and jailed markets (e.g. ColorLib, ThemeForest).  
 
 **You may read [here how it works](/how-it-works)**, and the whole idea behind this service.  
+
+## [React Dashboard Argon](https://www.creative-tim.com/product/argon-dashboard-react?ref=appseed)
+
+[React Dashboard Argon](https://www.creative-tim.com/product/argon-dashboard-react?ref=appseed) is an open-source **admin dashboard** for Bootstrap4 and [Reactstrap](https://reactstrap.github.io/). **React Dashboard Argon** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. Dashboard resources:
+
+- [React Dashboard Argon](https://www.creative-tim.com/product/argon-dashboard-react?ref=appseed) - the official page
+- [React Dashboard Argon sources](https://github.com/creativetimofficial/argon-dashboard-react?ref=appseed) - available on Github
+- [React Dashboard Argon demo](https://demos.creative-tim.com/argon-dashboard-react?ref=appseed) 
+
+### Build **[React](https://reactjs.org/) Dashboard** Argon from sources
+
+```
+$ git clone https://github.com/creativetimofficial/argon-dashboard-react.git
+$ cd argon-dashboard-react
+$ yarn 
+$ yarn start
+$ yarn build
+```
+
+![React Dashboard Argon - animated presentation.](https://github.com/app-generator/static/blob/master/admin-dashboards/react-dashboard-argon-intro.gif?raw=true)
+
+## [React Dashboard Tabler](https://github.com/tabler/tabler-react)
+
+A beautiful and clean UI Kit coded in React and actively supported by **Codecalm** (funny name)
+
+### Dashboard links
+
+- [Tabler React](https://github.com/tabler/tabler-react) - Github repo
+- [Tabler React](http://tabler-react.com/) - Live DEMO
+- [Tabler React](https://github.com/tabler/tabler) - Bootstrap Version, also free & open-source
+
+![React Tabler - Open-Source React dashboards](https://raw.githubusercontent.com/admin-dashboards/static/master/open-source-react-dashboard-tabler-intro.gif)
+
+### Build from sources
+
+```
+$ git clone https://github.com/tabler/tabler-react.git
+$ cd tabler-react
+$ yarn # install modules
+$ yarn start # start in development mode
+
+```
 
 ## React Dashboard Material Admin
 
@@ -75,7 +117,27 @@ $ yarn build # build for production
 
 ```
 
-<br />
+## [React Dashboard Paper](https://www.creative-tim.com/product/paper-dashboard-react?ref=appseed)
+
+[Dashboard React Paper ](https://www.creative-tim.com/product/paper-dashboard-react) is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics. It is a powerful tool, but it is light and easy to use. It has enough features to allow you to get the job done, but it is not crowded to the point where you can't find the files for a specific plugin.
+
+### Dashboard links 
+
+ - [React Dashboard Paper](https://www.creative-tim.com/product/paper-dashboard-react) - the official product page
+ - [React Dashboard Paper demo](https://demos.creative-tim.com/paper-dashboard-react/#/admin/dashboard)
+ - [React Dashboard Paper sources](https://github.com/creativetimofficial/paper-dashboard-react) - published on Github
+
+![React Dashboard Paper - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/react-dashboard-paper-intro.gif?raw=true)
+
+### Build from sources
+
+```
+$ git clone https://github.com/creativetimofficial/paper-dashboard-react.git
+$ cd paper-dashboard-react
+$ yarn # install modules
+$ yarn start # start in development mode
+$ yarn build # build for production
+```
 
 ## React Dashboard Shards Lite
 
@@ -118,6 +180,28 @@ This app has an impressive number of downloads, more than 30k.
 - License MIT
 
 ![Black Dashboard React - Animated presentation in gif format.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-black-intro.gif)
+
+## [React Dashboard Now UI](https://www.creative-tim.com/product/now-ui-dashboard-react?ref=appseed)
+
+[React Dashboard Now UI](https://www.creative-tim.com/product/now-ui-dashboard-react?ref=appseed) is an **admin dashboard** template designed by Invision and coded by Creative Tim. It is built on top of Reactstrap, using Now UI Dashboard and it is fully responsive. It comes with a big collection of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
+
+### Dashboard links
+
+ - [React Dashboard Now UI](https://www.creative-tim.com/product/now-ui-dashboard-react) the official product page
+ - [React Dashboard Now UI demo](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/dashboard)
+ - [React Dashboard Now UI sources](https://github.com/creativetimofficial/now-ui-dashboard-react) - avalable on Github
+
+![React Dashboard Now UI - gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/react-dashboard-nowui-intro.gif?raw=true)
+
+### Build from sources
+
+```
+$ git clone https://github.com/creativetimofficial/now-ui-dashboard-react.git
+$ cd now-ui-dashboard-react
+$ yarn # install modules
+$ yarn start # start in development mode
+$ yarn build # build for production
+```
 
 ### Add your work in this page
 

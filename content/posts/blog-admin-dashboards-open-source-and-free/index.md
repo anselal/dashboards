@@ -1,7 +1,7 @@
 ---
 title: Admin Dashboards - Open-Source and Free
 slug: blog/admin-dashboards-open-source-and-free
-date: 2019-10-31
+date: 2019-11-01
 cover: ./admin-dashboards-open-source-and-free-cover.jpg
 generate-card: false
 language: en
@@ -50,6 +50,42 @@ $ git clone https://github.com/creativetimofficial/black-dashboard.git
 $ cd black-dashboard
 $ yarn # install modules
 $ gulp # start the app in development mode
+```
+
+## [Admin Dashboard Tabler](https://github.com/tabler/tabler)
+
+[Tabler](https://github.com/tabler/tabler?ref=appseed) Tabler is a free and **open-source Dashboard UI Kit** built on Bootstrap. This admin panel is for everyone who wants to create any templates based on our pre-made components. Admin panel features: 
+
+- **Responsive**: With support for mobile, tablet and desktop it doesn’t matter what device you’re using. Tabler is responsive in all major browsers.
+- **Cross Browser**: the theme works perfectly with Latest Chrome, Firefox+, Latest Safari, Opera, Edge and mobile browsers. 
+
+![Admin Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/admin-dashboards/static/master/open-source-admin-dashboard-tabler-intro.gif)
+
+### Dashboard Links
+
+- [Admin Dashboard Demo](https://preview.tabler.io/)
+- [Admin Dashboard Black Sources](https://github.com/tabler/tabler)
+
+
+## [Admin Dashboard ModularAdmin](https://modularcode.io/modular-admin-html/?ref=appseed)
+
+ModularAdmin is a Free Bootstrap 4 Dashboard Theme with 2.6k stars on Github and actively supported by **ModularCode**. 
+
+### Dashboard Links
+
+- [ModularAdmin Demo](https://modularcode.io/modular-admin-html/)
+- [ModularAdmin Source Code](https://github.com/modularcode/modular-admin-html)
+
+![Admin Dashboard ModularAdmin - Open-Source Admin panel.](https://raw.githubusercontent.com/admin-dashboards/static/master/open-source-admin-dashboard-modular-admin-screen.png)
+
+### Build from sources
+
+```
+$ git clone https://github.com/modularcode/modular-admin-html.git
+$ cd modular-admin-html
+$ yarn # install modules
+$ yarn start # start the app in development mode
+$ yarn build # start the app in development mode
 ```
 
 ## [Admin Dashboard CoreUI](https://coreui.io/)

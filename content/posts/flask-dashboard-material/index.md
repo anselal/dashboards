@@ -19,10 +19,10 @@ description: "Admin Dashboard with Material Dashboard design coded in Flask. Fla
 
 ## Dashboard features
 
-- [SQLite](https://www.sqlite.org/index.html) database 
+- [SQLite](https://www.sqlite.org/index.html) database
 - [SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) ORM
-- Authentication (Register, Login) 
-- Static export via Frozen-Flask 
+- Authentication (Register, Login)
+- Static export via Frozen-Flask
 - LIVE deploy via FTP.
 
 <br />
@@ -32,16 +32,16 @@ description: "Admin Dashboard with Material Dashboard design coded in Flask. Fla
 ## Build from sources
 
 The [source code](https://github.com/app-generator/flask-material-dashboard) and the documentation contain enough information to help anyone building the app. 
-In case you want to build this product, without leaving this page, just type: 
+In case you want to build this product, without leaving this page, just type:
 
 ```
-$ git clone https://github.com/app-generator/flask-material-dashboard.git 
-$ cd flask-material-dashboard 
-$ pip install -r requirements.txt 
+$ git clone https://github.com/app-generator/flask-material-dashboard.git
+$ cd flask-material-dashboard
+$ pip install -r requirements.txt
 $ python app.py
 ```
 
-If all goes well, you shoud see **Flask Dashboard Material** app running, by visiting **localhost:5000** in your preferred browser. 
+If all goes well, you shoud see **Flask Dashboard Material** app running, by visiting **localhost:5000** in your preferred browser.
 
 ## Dashboard Resources
 

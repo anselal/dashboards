@@ -19,10 +19,10 @@ description: "Admin Dashboard with Black Dashboard design coded in Flask. Flask 
 
 ## Dashboard features
 
-- [SQLite](https://www.sqlite.org/index.html) database 
+- [SQLite](https://www.sqlite.org/index.html) database
 - [SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) ORM
-- Authentication (Register, Login) 
-- Static export via Frozen-Flask 
+- Authentication (Register, Login)
+- Static export via Frozen-Flask
 - LIVE deploy via FTP.
 
 <br />
@@ -32,24 +32,24 @@ description: "Admin Dashboard with Black Dashboard design coded in Flask. Flask 
 
 ## Build from sources
 
-The [source code](https://github.com/app-generator/flask-black-dashboard) and [documentation](https://docs.appseed.us/admin-dashboards/flask-dashboard-black/) contain enough information to help anyone building the app. 
-In case you want to build this product, without leaving this page, just type: 
+The [source code](https://github.com/app-generator/flask-black-dashboard) and [documentation](https://docs.appseed.us/admin-dashboards/flask-dashboard-black/) contain enough information to help anyone building the app.
+In case you want to build this product, without leaving this page, just type:
 
 ```
-git clone https://github.com/app-generator/flask-black-dashboard.git 
-cd flask-black-dashboard 
-pip install -r requirements.txt 
+git clone https://github.com/app-generator/flask-black-dashboard.git
+cd flask-black-dashboard
+pip install -r requirements.txt
 python app.py
 ```
 
-If all goes well, you shoud see **Flask Dashboard Light** app running, by visiting **localhost:5000** in your preferred browser. 
+If all goes well, you shoud see **Flask Dashboard Light** app running, by visiting **localhost:5000** in your preferred browser.
 
 ## Dashboard Resources
 
 - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black/) - product info
 - [Flask Dashboard Black](https://docs.appseed.us/admin-dashboards/flask-dashboard-black/) - documentation
 - [Admin Dashboards](https://appseed.us/admin-dashboards/) - index provided by AppSeed
-- [Black Dashboard](https://www.creative-tim.com/product/black-dashboard/) - the original design UI Kit, provided by Creative-Tim   
+- [Black Dashboard](https://www.creative-tim.com/product/black-dashboard/) - the original design UI Kit, provided by Creative-Tim
 
 <br />
 

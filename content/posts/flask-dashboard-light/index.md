@@ -11,7 +11,7 @@ tags:
 description: "Admin Dashboard with Light Bootstrap design coded in Flask. Flask Dashboard Light is crafted on top of Bootstrap CSS by Creative-Tim and released as an open-source web application."
 ---
 
-**[Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap)** is coded on top of **Light Bootstrap Dashboard** design crafted by Creative-Tim and released as an open-source admin panel app. 
+**[Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap)** is coded on top of **Light Bootstrap Dashboard** design crafted by Creative-Tim and released as an open-source admin panel app.
 
 ## [Flask](https://palletsprojects.com/p/flask/) Microframework
 
@@ -19,11 +19,11 @@ description: "Admin Dashboard with Light Bootstrap design coded in Flask. Flask 
 
 ## Dashboard features
 
-- SQLite database, 
-- SQLAlchemy ORM, 
+- SQLite database,
+- SQLAlchemy ORM,
 - Jinja2 templating (Flask native)
-- Basic Authentication (Login, Register) 
-- FTP deploy script 
+- Basic Authentication (Login, Register)
+- FTP deploy script
 - Static export via Frozen-Flask.
 
 <br />
@@ -33,16 +33,16 @@ description: "Admin Dashboard with Light Bootstrap design coded in Flask. Flask 
 ## Build from sources
 
 The [source code](https://github.com/app-generator/flask-dashboard-light-bootstrap) and the [documentation](https://docs.appseed.us/admin-dashboards/flask-dashboard-light-bootstrap/) contain enough information to help anyone building the app.
-In case you want to build this product, without leaving this page, just type: 
+In case you want to build this product, without leaving this page, just type:
 
 ```
-git clone https://github.com/app-generator/flask-dashboard-light-bootstrap.git 
-cd flask-dashboard-light-bootstrap 
-pip install -r requirements.txt 
+git clone https://github.com/app-generator/flask-dashboard-light-bootstrap.git
+cd flask-dashboard-light-bootstrap
+pip install -r requirements.txt
 python app.py
 ```
 
-If all goes well, you shoud see **Flask Dashboard Light** app running, by visiting **localhost:5000** in your preferred browser. 
+If all goes well, you shoud see **Flask Dashboard Light** app running, by visiting **localhost:5000** in your preferred browser.
 
 ## Dashboard Resources
 
@@ -50,7 +50,7 @@ If all goes well, you shoud see **Flask Dashboard Light** app running, by visiti
  - [Flask Dashboard Light](https://docs.appseed.us/admin-dashboards/flask-dashboard-light-bootstrap) - documentation
  - [Flask Dashboard Light](https://blog.appseed.us/flask-dashboard-light-learn-flask-by-coding-dashboards/) - related blog articles
  - [Admin Dashboards](https://appseed.us/admin-dashboards) - index provided by AppSeed
- - [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard) - Design information, provided by the Creative-Tim   
+ - [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard) - Design information, provided by the Creative-Tim
 
 <br />
 

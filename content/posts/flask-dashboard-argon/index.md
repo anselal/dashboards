@@ -11,7 +11,7 @@ tags:
 description: "Admin Dashboard with Black Dashboard design coded in Flask. Flask Dashboard Black use the latest state-of-the-art design provided by Creative-Tim."
 ---
 
-**[Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)** is built on top of a fully responsive, pixel-perfect **Argon Dashboard** design, crafted by Creative-Tim agency. 
+**[Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)** is built on top of a fully responsive, pixel-perfect **Argon Dashboard** design, crafted by Creative-Tim agency.
 
 ## [Flask](https://palletsprojects.com/p/flask/) Microframework
 
@@ -21,9 +21,9 @@ description: "Admin Dashboard with Black Dashboard design coded in Flask. Flask 
 
 - [SQLite](https://www.sqlite.org/index.html) database 
 - [SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) ORM
-- [Jinja2](http://jinja.pocoo.org/docs/2.10/) templating system. 
+- [Jinja2](http://jinja.pocoo.org/docs/2.10/) templating system.
 
-Your project requires authentication? No worries, Flask Argon Dashboard includes authentication by default. 
+Your project requires authentication? No worries, Flask Argon Dashboard includes authentication by default.
 Other features: FTP deploy script, static export via Frozen-Flask.
 
 <br />
@@ -32,25 +32,25 @@ Other features: FTP deploy script, static export via Frozen-Flask.
 
 ## Build from sources
 
-The [source code](https://github.com/app-generator/flask-argon-dashboard/) and the [documentation](https://docs.appseed.us/admin-dashboards/flask-dashboard-argon/) contain enough information to help anyone building the app. 
-In case you want to build this product, without leaving this page, just type: 
+The [source code](https://github.com/app-generator/flask-argon-dashboard/) and the [documentation](https://docs.appseed.us/admin-dashboards/flask-dashboard-argon/) contain enough information to help anyone building the app.
+In case you want to build this product, without leaving this page, just type:
 
 ```
-git clone https://github.com/app-generator/flask-argon-dashboard.git 
+git clone https://github.com/app-generator/flask-argon-dashboard.git
 cd flask-argon-dashboard 
 pip install -r requirements.txt 
 python app.py 
 ```
 
-If all goes well, you shoud see **Flask Dashboard Argon** app running, by visiting **localhost:5000** in your preferred browser. 
+If all goes well, you shoud see **Flask Dashboard Argon** app running, by visiting **localhost:5000** in your preferred browser.
 
 ## Dashboard Resources
 
- - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon) - product info
- - [Flask Dashboard Argon](https://docs.appseed.us/admin-dashboards/flask-dashboard-argon/) - documentation
- - [Flask Dashboard Argon](https://blog.appseed.us/flask-dashboard-argon-zero-to-full-stack/) From zero to full-stack - blog articles
- - [Admin Dashboards](https://appseed.us/admin-dashboards) - index provided by AppSeed
- - [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) - Design information, provided by the Creative-Tim  
+- [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon) - product info
+- [Flask Dashboard Argon](https://docs.appseed.us/admin-dashboards/flask-dashboard-argon/) - documentation
+- [Flask Dashboard Argon](https://blog.appseed.us/flask-dashboard-argon-zero-to-full-stack/) From zero to full-stack - blog articles
+- [Admin Dashboards](https://appseed.us/admin-dashboards) - index provided by AppSeed
+- [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) - Design information, provided by the Creative-Tim  
 
 <br />
 
@@ -71,4 +71,3 @@ If all goes well, you shoud see **Flask Dashboard Argon** app running, by visiti
 - [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
 - [React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j) - Open-Source and Free
 - [Admin Dashboards](https://blog.appseed.us/admin-dashboards-open-source-built-with-automation-tools/) - Open-Source and built with automation tools
-

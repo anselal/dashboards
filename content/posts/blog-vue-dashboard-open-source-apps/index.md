@@ -1,7 +1,7 @@
 ---
 title: Vue Dashboard - Open-Source and Free
 slug: blog/vue-dashboard-open-source-and-free
-date: 2019-10-28
+date: 2019-11-02
 cover: ./cover.jpg
 generate-card: false
 language: en
@@ -94,6 +94,27 @@ $ yarn dev # start the Vue dashboard app for development
 $ yarn build # build for production
 ```
 
+## [Vue Dashboard CoPilot](https://github.com/misterGF/CoPilot)
+
+CoPilot is a fully responsive admin template that is forked from AdminLTE. The difference here is that this repo is tailored to use with Vue.js. The UI is based on the Bootstrap 3 framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
+
+### Dashboard Links
+
+- [Vue Dashboard CoPilot Demo](https://copilot.mistergf.io/)
+- [Vue Dashboard CoPilot Sources](https://github.com/misterGF/CoPilot)
+
+![CoPilot - Open-Source Admin dashboard](https://raw.githubusercontent.com/admin-dashboards/static/master/open-source-vue-dashboard-copilot-intro.gif)
+
+### Build dashboard from sources
+
+```
+$ git clone https://github.com/misterGF/CoPilot.git
+$ cd CoPilot
+$ yarn # install dependencies
+$ yarn dev # start the Vue dashboard app for development
+$ yarn build # build for production
+```
+
 ## [Vue Dashboard Shards Lite](https://designrevision.com/downloads/shards-dashboard-lite-vue/)
 
 [Vue Dashboard Shards Lite](https://designrevision.com/downloads/shards-dashboard-lite-vue/) is a free **Vue admin dashboard** template pack featuring a modern design system and lots of custom templates and components.
@@ -178,6 +199,28 @@ $ cd vue-dashboard-architectui-free
 $ yarn # install modules
 $ yarn serve # start the app in development mode
 $ yarn build # production build
+```
+
+## [Vue Material Dashboard](https://www.creative-tim.com/product/vue-material-dashboard?ref=appseed)
+
+[Vue Material Dashboard](https://www.creative-tim.com/product/vue-material-dashboard?ref=appseed) is a beautiful resource built over Vue Material and Vuejs. It will help you get started developing dashboards in no time. Vue Material Dashboard is the official Vuejs version of the Original Material Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vuejs and Vue Router.
+
+### Dashboard Links
+
+ - [Vue Dashboard Material](https://www.creative-tim.com/product/vue-material-dashboard)
+ - [Vue Dashboard Material demo](https://demos.creative-tim.com/vue-material-dashboard/#/dashboard)
+ - [Vue Dashboard Material sources](https://github.com/creativetimofficial/vue-material-dashboard)
+
+![Vue Dashboard Material - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-material-intro.gif?raw=true)
+
+### Build dashboard from sources
+
+```
+$ git clone https://github.com/creativetimofficial/vue-material-dashboard.git
+$ cd vue-material-dashboard
+$ yarn # install dependencies
+$ yarn serve # start the Vue dashboard app for development
+$ yarn build # build for production
 ```
 
 ### Add your work in this page

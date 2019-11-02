@@ -1,38 +1,39 @@
 ---
-title: "Flask Dashboard AdminLTE"
-slug: flask-dashboard-adminlte
-date: 2019-10-29
+title: Flask Dashboard Modular Admin
+slug: flask-dashboard-modular-admin
+cover: ./flask-dashboard-modular-admin-cover.jpg
+date: 2019-11-02
 language: en
-cover: ./flask-dashboard-adminlte-cover.jpg
 tags:
- - flask-dashboard
- - adminlte
- - open-source
-description: "AdminLTE Dashboard coded in Flask with SQLite database, ORM and authentication."
+  - flask-dashboard
+  - admin-dashboards
+  - open-source
+description: "A beautiful and open-source admin dashboard with Modular Admin Design coded in Flask Framework."
 ---
 
-One of the best **open-source admin dashboard** & control panel theme. Built on top of Bootstrap, AdminLTE provides a range of responsive, reusable, and commonly used components.
+**[Flask Modular Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)** designed in Bootstrap and coded in [Flask Framework](https://palletsprojects.com/p/flask/) with SQLite database, ORM and authentication. Features:
 
-![Flask Dashboard AdminLTE - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-intro.gif)
+- SQLite database, SQLAlchemy ORM
+- Session based authentication flow (login, register)
+- Static Build via Frozen-Flask
+- **MIT License**
 
-## Flask Dashboard features
+## Modular Admin Dashboard Lite
 
-- [SQLite](https://www.sqlite.org/index.html) database
-- [SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) ORM
-- [Jinja2](http://jinja.pocoo.org/docs/2.10/) templating system.
-
-Your project requires authentication? No worries, [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) includes authentication by default. Other features: FTP deploy script, static export via Frozen-Flask.
+A high-quality & free Bootstrap admin dashboard template pack that comes with lots of templates and components. Based on Bootstrap 4, Modular Admin Dashboard Lite is fully responsive and capable to adapt its layout to any viewport size.
 
 <br />
 
+![Flask Dashboard Modular Admin - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-modular-admin-intro.gif)
+
 ## Build from sources
 
-The source code and the documentation contain enough information to help anyone building the app. In case you want to build this product, without leaving this page, just type:
+The [source code](https://github.com/app-generator/flask-dashboard-modular-admin) and the documentation contain enough information to help anyone building the app. In case you want to build this product, without leaving this page, just type:
 
 ```
 $ # clone the sources
-$ git clone https://github.com/app-generator/flask-dashboard-adminlte.git
-$ cd flask-dashboard-adminlte
+$ git clone https://github.com/app-generator/flask-dashboard-modular-admin.git
+$ cd flask-dashboard-modular-admin
 $
 $ # install modules using a virtualenv
 $ virtualenv --no-site-packages env
@@ -42,12 +43,12 @@ $ python app.py
 $ # app is running on port 5000
 ```
 
-If all goes well, you shoud see **[Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** app running, by visiting **localhost:5000** in your preferred browser.
+If all goes well, you shoud see **Flask Dashboard Modular Admin** app running, by visiting **localhost:5000** in your preferred browser.
 
 ## Dashboard Resources
 
-- [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Official Product Page
-- [Flask Dashboard AdminLTE](https://flask-dashboard-adminlte.appseed.us/) - Live DEMO
+- [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Official Product Page
+- [Flask Dashboard Modular Admin](https://flask-dashboard-modular-admin.appseed.us/) - Live DEMO
 
 <br />
 
@@ -64,6 +65,8 @@ If all goes well, you shoud see **[Flask Dashboard AdminLTE](https://appseed.us/
 ## [Flask](https://palletsprojects.com/p/flask/) Microframework
 
 **[Flask](https://palletsprojects.com/p/flask/)** ([source code](https://github.com/pallets/flask)) is a Python web framework built with a small core and modularity in mind. With a small footprint, well documented and supported by a growing community, Flask can be a good choice to implement on top a nice production-ready apps, landing pages and complex eCommerce services. For more information, feel free to access the **official website**.
+
+<br />
 
 ### Related Articles
 
