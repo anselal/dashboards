@@ -1,7 +1,7 @@
 ---
 title: Admin Dashboards - Open-Source and Free
 slug: blog/admin-dashboards-open-source-and-free
-date: 2019-11-01
+date: 2019-11-03
 cover: ./admin-dashboards-open-source-and-free-cover.jpg
 generate-card: false
 language: en

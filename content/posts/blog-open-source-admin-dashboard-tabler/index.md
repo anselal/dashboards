@@ -1,7 +1,7 @@
 ---
 title: Open-Source Dashboard - Tabler
 slug: blog/open-source-admin-dashboard-tabler
-date: 2019-11-02
+date: 2019-11-01
 cover: ./open-source-admin-dashboard-tabler-cover.jpg
 language: en
 tags:
